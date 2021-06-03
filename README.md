@@ -8,10 +8,9 @@ The stack of technologies which I used in this project:
 
 I've learned:
 
-- How to use UIImagePickerController
-- How to save images to local directory
-- How to use UICollectionViewController
-- How to create custom cells for UICollectionViewController
+- How to use NSKeyedArchiver and NSKeyedUnarchiver to save data
+- How to use NSCoding protocol
+- How to use UserDefaults to store data
 
 ## Preview
-<img src="https://github.com/azat-dev/ios-swift-100-uikit-project-10/raw/master/preview.gif" width="300px"/>
+<img src="https://github.com/azat-dev/ios-swift-100-uikit-project-12a/raw/master/preview.gif" width="300px"/>
